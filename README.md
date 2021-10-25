@@ -7,6 +7,10 @@ A simple app that allows you to upload images and search for the relevant ones.
 
 In the project directory, you can run:
 
+### `npm i`
+
+To get all the relevant depedencies...Then run:
+
 ### `npm start`
 
 Runs the app in the development mode.<br>
